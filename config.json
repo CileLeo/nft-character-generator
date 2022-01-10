@@ -1,0 +1,42 @@
+{
+  "image": [
+    {
+      "width": 1024,
+      "height": 1024,
+      "mode": "RGBA",
+      "nft_amount": 10
+    }
+  ],
+  "layers": [
+    {
+      "name": "background",
+      "folder_name": "backgrounds",
+      "id": 0
+    },
+    {
+      "name": "body",
+      "folder_name": "body",
+      "id": 1
+    },
+    {
+      "name": "face",
+      "folder_name": "face",
+      "id": 2
+    },
+    {
+      "name": "hair",
+      "folder_name": "hair",
+      "id": 3
+    },
+    {
+      "name": "face_decor",
+      "folder_name": "face_decor",
+      "id": 4
+    },
+    {
+      "name": "hat",
+      "folder_name": "hat",
+      "id": 5
+    }
+  ]
+}
